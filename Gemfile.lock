@@ -35,7 +35,7 @@ GIT
 
 GIT
   remote: https://github.com/pasosdeJesus/sivel2_gen.git
-  revision: fb015033170bf048b040556801d3e15fbc1eba63
+  revision: 9e914c22a4429452631665e0cb88880a8681deda
   branch: rails5
   specs:
     sivel2_gen (2.0b8)
