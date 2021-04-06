@@ -429,7 +429,7 @@ CREATE TABLE public.apo214_asisreconocimiento (
     lugarpreliminar_id integer,
     persona_id integer,
     organizacion character varying(5000),
-    "position" integer
+    posicion integer
 );
 
 
@@ -6259,6 +6259,14 @@ ALTER TABLE ONLY public.sivel2_gen_categoria
 
 
 --
+-- Name: sivel2_gen_categoria categoria_contadaen_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.sivel2_gen_categoria
+    ADD CONSTRAINT categoria_contadaen_fkey FOREIGN KEY (contadaen) REFERENCES public.sivel2_gen_categoria(id);
+
+
+--
 -- Name: sip_departamento departamento_id_pais_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
 --
 
@@ -7019,6 +7027,14 @@ ALTER TABLE ONLY public.sip_persona
 
 
 --
+-- Name: sivel2_gen_presponsable presponsable_papa_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.sivel2_gen_presponsable
+    ADD CONSTRAINT presponsable_papa_fkey FOREIGN KEY (papa) REFERENCES public.sivel2_gen_presponsable(id);
+
+
+--
 -- Name: sivel2_gen_caso_presponsable presuntos_responsables_caso_id_caso_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
 --
 
@@ -7669,6 +7685,7 @@ INSERT INTO "schema_migrations" (version) VALUES
 ('20210206191033'),
 ('20210218170554'),
 ('20210226155035'),
-('20210324141126');
+('20210324141126'),
+('20210406225904');
 
 

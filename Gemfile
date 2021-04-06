@@ -83,12 +83,12 @@ gem 'sivel2_gen', # Motor para manejo de casos
 
 gem 'apo214', # Motor para desaparición
   git: 'https://github.com/pasosdeJesus/apo214.git', branch: :hotwire
-  #path: '../apo214'
+  #path: '../apo214-hw2'
 
 
 group  :development, :test do
  
-  gem 'byebug' # Depurar
+  #gem 'byebug' # Depurar
 
   gem 'colorize' # Colores en terminal
 
