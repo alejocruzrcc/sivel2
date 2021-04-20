@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/pasosdeJesus/apo214.git
-  revision: 6efb3329b976e369de5be5fcb31874d9a6edffc4
+  revision: 85171951a9c9cf41b2aeea4ffa562c3702728550
   branch: hotwire
   specs:
     apo214 (0.1.0)
@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/pasosdeJesus/heb412_gen.git
-  revision: 32d92e5a12faa4150f88f606aa42c76220321914
+  revision: 67738e453c8e155bbd071fceaab980cc92da1e73
   branch: main
   specs:
     heb412_gen (1.0.b6)
@@ -20,7 +20,7 @@ GIT
 
 GIT
   remote: https://github.com/pasosdeJesus/mr519_gen.git
-  revision: 960c8bc1f17a239fc8459567aa28a242a18a23d9
+  revision: 1eb6f33a9a7db4347b9b2a781d8465c29f0cf9d1
   branch: main
   specs:
     mr519_gen (0.2.0)
@@ -29,7 +29,7 @@ GIT
 
 GIT
   remote: https://github.com/pasosdeJesus/sip.git
-  revision: 3b58b5c667205e7d671ab392d52ad8ff6b5f8cb9
+  revision: 38fa969b004b6390ec522f8bee460de7335fca8e
   branch: main
   specs:
     sip (2.0.b11)
@@ -48,7 +48,7 @@ GIT
 
 GIT
   remote: https://github.com/pasosdeJesus/sivel2_gen.git
-  revision: 9799e6ed0e3535ae5acf28e233cf3cebe9588512
+  revision: be443cc17a84df76bdeda735998a57cb7636d107
   branch: main
   specs:
     sivel2_gen (2.0b14)
@@ -125,7 +125,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
-    acts_as_list (1.0.3)
+    acts_as_list (1.0.4)
       activerecord (>= 4.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
@@ -166,7 +166,7 @@ GEM
     coffee-script-source (1.12.2)
     colorize (0.8.1)
     concurrent-ruby (1.1.8)
-    connection_pool (2.2.3)
+    connection_pool (2.2.5)
     crass (1.0.6)
     devise (4.7.3)
       bcrypt (~> 3.0)
@@ -206,7 +206,7 @@ GEM
     json (2.5.1)
     kgio (2.11.3)
     libxml-ruby (3.2.1)
-    loofah (2.9.0)
+    loofah (2.9.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -224,7 +224,7 @@ GEM
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.7)
-    nokogiri (1.11.2)
+    nokogiri (1.11.3)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     odf-report (0.7.2)
