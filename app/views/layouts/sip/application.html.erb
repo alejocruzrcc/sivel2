@@ -49,16 +49,23 @@
   <body>
     <%= nav_bar :fixed => :top, 
       :brand => content_for?(:titulo) ? yield(:titulo) : Sip.titulo,
-      brand_link: sip.root_url, 
+      brand_link: sip.root_url,
       :responsive => true do 
     %>
       <%= yield :menu %>
     <% end %>
 
-    <div id="div_contenido" class="container master-container" style="margin-top: 40px;" >
-	    <%= bootstrap_flash %>
-	    <%= yield %>
-    </div>
+    <% if request.env['PATH_INFO'] == "/sivel2/casos/mapatiempo" %>
+      <div id="div_contenido" >
+	      <%= bootstrap_flash %>
+	      <%= yield %>
+      </div>
+    <% else %>
+      <div id="div_contenido" class="container master-container" style="margin-top: 40px;" >
+	      <%= bootstrap_flash %>
+	      <%= yield %>
+      </div>
+    <% end %>
 
     <footer id="pie_pagina" align='left'>
       <%= yield :piedepagina %>

@@ -1,0 +1,212 @@
+{
+  "哥伦比亚": {
+     "ENGLISH": "Colombia",
+     "confirmedCount": {
+        "2020-07-01": 0
+     },
+     "deadCount": {
+        "2020-07-01": 0
+     },
+     "curedCount": {
+        "2020-01-01": 0
+     },
+     "亚马孙省": {
+        "ENGLISH": "Amazonas",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "安蒂奥基亚省": {
+        "ENGLISH": "Antioquia",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "阿劳卡省": {
+        "ENGLISH": "Arauca",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "大西洋省": {
+        "ENGLISH": "Atlantico",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "波哥大": {
+        "ENGLISH": "Bogota, D.C.",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "玻利瓦尔省": {
+        "ENGLISH": "Bolivar",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "博亚卡省": {
+        "ENGLISH": "Boyaca",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "卡尔达斯省": {
+        "ENGLISH": "Caldas",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "卡克塔省": {
+        "ENGLISH": "Caqueta",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "卡萨纳雷省": {
+        "ENGLISH": "Casanare",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "考卡省": {
+        "ENGLISH": "Cauca",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "塞萨尔省": {
+        "ENGLISH": "Cesar",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "乔科省": {
+        "ENGLISH": "Choco",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "科尔多瓦省": {
+        "ENGLISH": "Cordoba",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "昆迪纳马卡省": {
+        "ENGLISH": "Cundinamarca",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "瓜伊尼亚省": {
+        "ENGLISH": "Guainia",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "瓜维亚雷省": {
+        "ENGLISH": "Guaviare",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "乌伊拉省": {
+        "ENGLISH": "Huila",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "瓜希拉省": {
+        "ENGLISH": "La Guajira",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "马格达莱纳省": {
+        "ENGLISH": "Magdalena",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "梅塔省": {
+        "ENGLISH": "Meta",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "纳里尼奥省": {
+        "ENGLISH": "Narino",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "北桑坦德省": {
+        "ENGLISH": "Norte de Santander",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "普图马约省": {
+        "ENGLISH": "Putumayo",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "金迪奥省": {
+        "ENGLISH": "Quindio",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "里萨拉尔达省": {
+        "ENGLISH": "Risaralda",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "圣安德列斯-普罗维登西亚省": {
+        "ENGLISH": "San Andres y Providencia",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "桑坦德省": {
+        "ENGLISH": "Santander",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "苏克雷省": {
+        "ENGLISH": "Sucre",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "托利马省": {
+        "ENGLISH": "Tolima",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "考卡山谷省": {
+        "ENGLISH": "Valle del Cauca",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "沃佩斯省": {
+        "ENGLISH": "Vaupes",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     },
+     "比查达省": {
+        "ENGLISH": "Vichada",
+        "confirmedCount": {"2020-07-01": 0},
+        "deadCount": {"2020-07-01": 0},
+        "curedCount": {"2020-07-01": 0}
+     }
+  }
+}
